@@ -1,0 +1,14 @@
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\RegressionSearch.deps.json
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\RegressionSearch.runtimeconfig.json
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\RegressionSearch.runtimeconfig.dev.json
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\RegressionSearch.dll
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.csprojAssemblyReference.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.csproj.CoreCompileInputs.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.RazorAssemblyInfo.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.RazorAssemblyInfo.cs
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.AssemblyInfoInputs.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.AssemblyInfo.cs
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.RazorTargetAssemblyInfo.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\RegressionSearch.pdb
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.dll
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\RegressionSearch.pdb

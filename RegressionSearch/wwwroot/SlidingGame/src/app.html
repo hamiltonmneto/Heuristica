@@ -1,0 +1,11 @@
+<template>
+  <require from="./styles.css"></require>
+  <div class="content">
+      <div class="table">
+          <div class="grid">
+            <p repeat.for="number of numbers">${number}</p>
+          </div>
+        </div>
+        <button type="button" click.trigger="solve()">Solve</button>
+  </div>
+</template>

@@ -1,0 +1,22 @@
+.grid {
+  display: grid;
+  grid-gap: 1px;
+  grid-template-columns: repeat(3, 1fr);
+  width: 10%;
+  margin: auto;
+}
+
+div > p {
+  padding: 10px;
+  background-color: #ccc;
+  border-style: solid;
+  text-align: center;
+  margin: 0;
+  font-weight: bolder;
+}
+
+button{
+  left: 650px ;
+  position: relative;
+  top: 10px;
+}
