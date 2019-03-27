@@ -12225,9 +12225,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hamil\\source\\repos\\RegressionSearch\\RegressionSearch\\RegressionSearch.csproj",
-      "projectName": "RegressionSearch",
-      "projectPath": "C:\\Users\\Hamil\\source\\repos\\RegressionSearch\\RegressionSearch\\RegressionSearch.csproj",
+      "projectUniqueName": "C:\\Users\\Hamil\\source\\repos\\RegressionSearch\\RegressionSearch\\Heuristica.csproj",
+      "projectName": "Heuristica",
+      "projectPath": "C:\\Users\\Hamil\\source\\repos\\RegressionSearch\\RegressionSearch\\Heuristica.csproj",
       "packagesPath": "C:\\Users\\Hamil\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hamil\\source\\repos\\RegressionSearch\\RegressionSearch\\obj\\",
       "projectStyle": "PackageReference",

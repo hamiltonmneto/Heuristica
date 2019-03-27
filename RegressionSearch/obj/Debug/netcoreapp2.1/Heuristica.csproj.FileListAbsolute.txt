@@ -1,0 +1,14 @@
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\Heuristica.deps.json
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\Heuristica.runtimeconfig.json
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\Heuristica.runtimeconfig.dev.json
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\Heuristica.dll
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\bin\Debug\netcoreapp2.1\Heuristica.pdb
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.csprojAssemblyReference.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.csproj.CoreCompileInputs.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.RazorAssemblyInfo.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.RazorAssemblyInfo.cs
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.AssemblyInfoInputs.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.AssemblyInfo.cs
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.RazorTargetAssemblyInfo.cache
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.dll
+C:\Users\Hamil\source\repos\RegressionSearch\RegressionSearch\obj\Debug\netcoreapp2.1\Heuristica.pdb
