@@ -47,6 +47,7 @@ export class App {
     })
       .then(response => response.json())
       .then(data => {
+        this.numbers = data;
         console.log(data);
       });
     ;
