@@ -12,7 +12,7 @@ namespace RegressionSearch.Controllers
 {
     [Route("v1/")]
     [ApiController]
-    public class RegressionSearchController : ControllerBase
+    public class HeuristicaController : ControllerBase
     {
         public SlidingGame _slidingGame = new SlidingGame();
         [HttpPost]
